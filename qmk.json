@@ -1,4 +1,9 @@
 {
     "userspace_version": "1.0",
-    "build_targets": []
+    "build_targets": [
+        ["mlego/m66/rev4", "uk"],
+        ["mlego/m66/rev3", "uk"],
+        ["mlego/m66/rev2", "uk"],
+        ["mlego/m66/rev1", "uk"]
+    ]
 }
